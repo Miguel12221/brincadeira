@@ -1,0 +1,22 @@
+.caixainicio {
+   background: rgb(12, 170, 25);
+
+   
+}
+.caixafinal {
+    background: rgb(12, 170, 25);
+    margin-top: 100%;
+
+}
+body { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+
+}
+.container{
+    background: rgb(34, 128, 54);
+    border-radius: 5%;
+    margin: 300px;
+    margin-top: 50%;
+    
+}
